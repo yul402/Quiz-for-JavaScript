@@ -1,6 +1,6 @@
 # Project: Quiz-for-JavaScript
 This repository contains a JavaScript quiz to test the basic JavaScript semantics.
-- link for quiz: quiz-for-java-script-8p7y8kpf6-yul402.vercel.app
+- [link for quiz](quiz-for-java-script-8p7y8kpf6-yul402.vercel.app)
 
 
 ## Homepage:
